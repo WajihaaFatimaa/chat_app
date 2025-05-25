@@ -1,0 +1,2 @@
+/Users/ivisiongate/Downloads/chat_app/android/app/.cxx/RelWithDebInfo/5i2w1b73/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ivisiongate/Downloads/chat_app/android/app/.cxx/RelWithDebInfo/5i2w1b73/armeabi-v7a/CMakeFiles/rebuild_cache.dir

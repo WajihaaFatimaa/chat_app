@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/ivisiongate/Documents/FlutterSdk/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ivisiongate/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ivisiongate/Downloads/chat_app/android/app/.cxx/RelWithDebInfo/5i2w1b73/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ivisiongate/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ivisiongate/Downloads/chat_app/android/app/.cxx/RelWithDebInfo/5i2w1b73/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

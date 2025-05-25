@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487440786887",
+    "project_id": "chat-app-335e6",
+    "storage_bucket": "chat-app-335e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487440786887:android:8bd92b8244649eaf2425e2",
+        "android_client_info": {
+          "package_name": "artech.chat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXpZ4ntALYuCN_a5Em_T9-PaHi8IVKA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

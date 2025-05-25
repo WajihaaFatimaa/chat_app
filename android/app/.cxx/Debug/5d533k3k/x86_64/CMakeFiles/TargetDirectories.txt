@@ -1,0 +1,2 @@
+/Users/ivisiongate/Downloads/chat_app/android/app/.cxx/Debug/5d533k3k/x86_64/CMakeFiles/edit_cache.dir
+/Users/ivisiongate/Downloads/chat_app/android/app/.cxx/Debug/5d533k3k/x86_64/CMakeFiles/rebuild_cache.dir
